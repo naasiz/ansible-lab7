@@ -91,7 +91,9 @@ ansible-playbook -i inventory/hosts.yml playbook.yml
    http://<PUBLIC_IP_1>
    http://<PUBLIC_IP_2>
    ```
-   We should see the **system information webpage**.
+   We should see the **system information webpage** like so:
+   ![Screenshot 2025-02-21 155620](https://github.com/user-attachments/assets/22c9f84e-1ec9-43a7-867e-8e0e0ba836bf)
+
 
 ---
 
